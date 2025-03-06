@@ -10,6 +10,7 @@ Predictors: Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, Di
 Target: Outcome (0 = No diabetes, 1 = Diabetes)
 
 Implementation Details
+
 Data Preprocessing:
 
 Split data into features (X) and target (y)
