@@ -1,8 +1,10 @@
 # Diabetes-Classification
 Overview
+
 This project implements a logistic regression model from scratch to predict diabetes outcomes based on medical predictors. The model uses gradient descent optimization with L2 regularization and custom implementation of the sigmoid function.
 
 Dataset
+
 The dataset used is the Pima Indians Diabetes Database, which contains several medical predictor variables and one target variable (Outcome):
 Predictors: Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age
 Target: Outcome (0 = No diabetes, 1 = Diabetes)
